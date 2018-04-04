@@ -1,0 +1,8 @@
+{
+  "name": "StudyCards",
+  "app_id": "86cd9f92",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
